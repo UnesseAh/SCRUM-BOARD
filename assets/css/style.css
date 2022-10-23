@@ -1,0 +1,13 @@
+.pace {
+    display: none;
+}
+
+.main-style {
+    min-height: 100vh    
+}
+
+.btn-secondary { 
+    background-color: #DEE2E6;
+    border: 0;
+    color: black;
+}
